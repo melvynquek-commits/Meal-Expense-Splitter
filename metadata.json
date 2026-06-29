@@ -1,0 +1,6 @@
+{
+  "name": "Meal Expense Splitter",
+  "description": "An easy-to-use application to split meal costs among friends by uploading receipt images and assigning items to individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
